@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">entrenadorIoT</string>
+    <string name="title_activity_main">entrenadorIoT</string>
+    <string name="package_name">com.sena.entrenadorIoT</string>
+    <string name="custom_url_scheme">com.sena.entrenadorIoT</string>
+</resources>

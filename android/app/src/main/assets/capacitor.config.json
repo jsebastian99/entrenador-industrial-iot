@@ -1,0 +1,6 @@
+{
+	"appId": "com.sena.entrenadorIoT",
+	"appName": "entrenadorIoT",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
